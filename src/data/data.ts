@@ -157,9 +157,15 @@ export interface Experience {
 
 export const EXPERIENCE: Experience[] = [
   {
+    company: "CountX",
+    position: "Head of Engineering",
+    date: "Aug 2025 - Present",
+    description: "Leading the technology organization driving automation of VAT workflows for cross-border commerce, based in Berlin. Restructured the engineering organization to enhance accountability, velocity, and cross-functional collaboration. Reduced platform operating costs by 25% through architectural optimization and data-informed decision-making. Integrated AI-driven tools and development practices to increase developer productivity and product quality. Cultivated a culture of ownership and continuous improvement, empowering teams to deliver measurable business outcomes. Directed security audits and compliance programs aligned with Amazon and JTL requirements. Defined and executed growth strategy targeting 40% expansion of client base through scalable systems and automation. Oversaw technology budgeting, talent strategy, and organizational scaling. Founded and host internal and community meetups focused on AI adoption and engineering productivity."
+  },
+  {
     company: "AWS (Amazon Web Services)",
     position: "System Delivery Manager",
-    date: "2024 - Present",
+    date: "2024 - 2025",
     description: "Leading operations of AWS's machine learning services across Europe (Bedrock, SageMaker, Amazon Q), with a focus on team growth, technical readiness, and scaling operations. Built and led a 12-person team driving operational excellence. Orchestrated technical roadmaps and stakeholder engagement under aggressive timelines. Oversaw hiring, promotion, talent development, and people management. Streamlined processes to support rapid ML service integration."
   },
   {
